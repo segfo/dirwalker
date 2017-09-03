@@ -1,0 +1,6 @@
+[package]
+name = "dirwalker"
+version = "0.1.0"
+authors = ["segfo <k.segfo@gmail.com>"]
+
+[dependencies]
